@@ -1,0 +1,6 @@
+path: C:\Users\harsh\Desktop\Major Project\OpenCV\data
+train: images\train
+val: valid\images
+
+names:
+  0: potholes
